@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BLuef0x27
 - 👀 I’m interested in pen testing, astronomy, Legos and helping others in Cyber Security
-- 🌱 I’m currently learning Zwro Point Security - CRTO
+- 🌱 I’m currently learning Zero Point Security - CRTO
 - 💞️ I’m looking to collaborate on learning other methods of red teaming
 - 📫 How to reach me? I cant scratch my own back so just wait.
 
