@@ -1,6 +1,6 @@
 # 👋 Christopher M. Huffstetler
 
-**Application Security Engineer** | Tampa, FL | U.S. Army Veteran
+**Application Security Engineer** | USA | U.S. Army Veteran
 
 [![Focus](https://img.shields.io/badge/focus-Application_Security-blue)](https://owasp.org)
 [![Offense](https://img.shields.io/badge/offense-pentesting-red)](https://owasp.org/www-project-web-security-testing-guide/)
