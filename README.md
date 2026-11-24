@@ -33,6 +33,10 @@ Original tools I built, each with tests, CI, and docs:
 - **[cloud-compliance-dashboard](https://github.com/BLuef0x27/cloud-compliance-dashboard)** (Go): AWS compliance checks (CIS AWS, SOC2, HIPAA mappings) with drift detection, REST API, and a zero-build dashboard.
 - **[api-security-scanner](https://github.com/BLuef0x27/api-security-scanner)** (Python): OpenAPI-driven REST API scanner with BOLA, broken auth, mass assignment, and exposure probes mapped to the OWASP API Top 10.
 
+## Field work
+
+- **[ai-pentest-juiceshop](https://github.com/BLuef0x27/ai-pentest-juiceshop)**: autonomous AI pentest of OWASP Juice Shop using a self-hosted multi-agent LLM pentester (ARTEX). 16 confirmed findings with full PoC evidence, plus human-in-the-loop operating lessons: where agent output needs validation, where model tier decides the outcome, and where enforced scope guardrails do the real work.
+
 ## Certifications
 
 - ACPT (Altered Security Certified Penetration Tester)
