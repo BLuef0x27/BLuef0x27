@@ -35,7 +35,7 @@ Original tools I built, each with tests, CI, and docs:
 
 ## Field work
 
-- **[ai-pentest-juiceshop](https://github.com/BLuef0x27/ai-pentest-juiceshop)**: autonomous AI pentest of OWASP Juice Shop using a self-hosted multi-agent LLM pentester (ARTEX). 16 confirmed findings with full PoC evidence, plus human-in-the-loop operating lessons: where agent output needs validation, where model tier decides the outcome, and where enforced scope guardrails do the real work.
+- **[ai-pentest-juiceshop](https://github.com/BLuef0x27/ai-pentest-juiceshop)**: autonomous AI pentest of OWASP Juice Shop using a self-hosted multi-agent LLM pentester (ARTEX). 18 confirmed findings across three supervised engagements, with full PoC evidence, plus human-in-the-loop operating lessons: where agent output needs validation, where model tier decides the outcome, and where enforced scope guardrails do the real work.
 
 ## Certifications
 
